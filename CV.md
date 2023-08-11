@@ -37,7 +37,7 @@ Setagaya-Gakuen High School, Setagaya, Tokyo, Japan 1990-1993
 
 ## EXPERIENCE
 
-Part-time lecturer February, 2014 - October, 2012
+Part-time lecturer February, 2014 - October, 2014
 Tokyo Kobetsu Shido Gakuin, Tokyo
 
 Part-time lecturer August, 2010 - March, 2012
