@@ -33,7 +33,7 @@ Test of Practical English: 4th Grade outstanding performance award, The Society 
 
 * University senior studying Linux Security at Division of Electrical and Computer Engineering, Faculty of Engineering, Yokohama National University, Yokohama, Kanagawa, Japan 1994-1999 Completed 146 credits toward a Bachelor of Engineering in Information Security
 
-Setagaya-Gakuen High School, Setagaya, Tokyo, Japan 1990-1993
+Setagaya Gakuen High School, Setagaya, Tokyo, Japan 1990-1993
 
 ## EXPERIENCE
 
