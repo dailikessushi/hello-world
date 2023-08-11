@@ -67,7 +67,7 @@ Motoyama Graph System, Tokyo
 
 1. English skill
 
-   I will take more time to create documents because I have to use dictionaries. I don't believe in web translators perfectly to describe them correctly because I have ever had a impolite email from a world-wide company by using one. Therefore speaking in English does not feel as good as writing. However, I complete my job to the last detail.
+   I will take more time to create documents in English because I have to use dictionaries. I don't believe in web translators perfectly to describe them correctly because I have ever had a impolite email from a world-wide company by using one. Therefore speaking in English does not feel as good as writing. However, I complete my job to the last detail.
 
 2. Chronic Disease
 
