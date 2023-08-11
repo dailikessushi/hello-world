@@ -1,7 +1,8 @@
-# hello-world
+# This is Daisuke!
 
 Hi, everyone!
 
-blah blah blah
+This is Daisuke. I am, if I may say so myself, a PC geek.
+But I am a newbie of Github.
 
-And BLAH BLAH BLAH
+best regards
