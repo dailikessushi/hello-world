@@ -1,4 +1,4 @@
-# MY PC History
+# My PC History
 
 1. [SHARP](http://sharp-world.com/) [MZ-731](http://ja.wikipedia.org/wiki/MZ-700)
 2. [NEC](http://www.nec.com/) [PC-9801](http://ja.wikipedia.org/wiki/PC-9800%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)VM11
@@ -16,7 +16,7 @@
 14. [DOSPARA](https://www.dospara.co.jp/) BTO PC
 15. [LENOVO](http://www.lenovo.com/) ThinkPad R500 (Laptop)
 16. [LENOVO](http://www.lenovo.com/) [ThinkPad Edge 11"](http://shopap.lenovo.com/jp/landing/info/10/edge11/) (Laptop)
-17. 1st Home-built PC
-18. [Shuttle](https://shuttle-japan.jp/) [DS47](http://global.shuttle.com/products/productsSpec?productId=1718)
-19. [LENOVO](http://www.lenovo.com/) [ThinkPad X280](https://www.lenovo.com/jp/ja/notebooks/thinkpad/x-series/ThinkPad-X280/p/22TP2TX2800) (Laptop)
-20. 2nd Home-built PC
+17. 1st Home-built PC (Active)
+18. [Shuttle](https://shuttle-japan.jp/) [DS47](http://global.shuttle.com/products/productsSpec?productId=1718) (Active)
+19. [LENOVO](http://www.lenovo.com/) [ThinkPad X280](https://www.lenovo.com/jp/ja/notebooks/thinkpad/x-series/ThinkPad-X280/p/22TP2TX2800) (Laptop) (Active)
+20. 2nd Home-built PC (Active)
