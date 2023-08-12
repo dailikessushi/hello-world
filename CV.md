@@ -31,23 +31,23 @@ https://dak.f5.si
 
 * Bachelor of Liberal Arts in Industry and Technology Major at Studies of Society and Industry, Department of Liberal Arts, [Faculty of Liberal Arts](https://www.ouj.ac.jp/en/faculty/liberalarts/), [The Open University of Japan](https://www.ouj.ac.jp/en/) 2004-2009
 
-* University senior studying Linux Security at Division of Electrical and Computer Engineering, Faculty of Engineering, [Yokohama National University](https://www.ynu.ac.jp/english/), Yokohama City, Kanagawa Prefecture, Japan 1994-1999 Completed 146 credits toward a Bachelor of Engineering in Information Security
+* University senior studying Linux Security at Division of Electrical and Computer Engineering, Faculty of Engineering, [Yokohama National University](https://www.ynu.ac.jp/english/), [Yokohama City](https://www.city.yokohama.lg.jp/lang/residents/en/), [Kanagawa Prefecture](https://www.pref.kanagawa.jp/translate.html?p=/index.html), Japan 1994-1999 Completed 146 credits toward a Bachelor of Engineering in Information Security
 
-* [SETAGAYA GAKUEN High School](https://www.setagayagakuen.ac.jp/), Setagaya Ward, Tokyo, Japan 1990-1993
+* [SETAGAYA GAKUEN High School](https://www.setagayagakuen.ac.jp/), [Setagaya Ward](https://honyaku.j-server.com/LUCSETAGAY/ns/tl.cgi/https://www.city.setagaya.lg.jp/index.html?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=utf-8&XJSID=0), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html), Japan 1990-1993
 
 ## EXPERIENCE
 
 Part-time lecturer February, 2014 - October, 2014
-[Tokyo Kobetsu Shido Gakuin](https://www.kobetsu.co.jp/), Tokyo, Japan
+[Tokyo Kobetsu Shido Gakuin](https://www.kobetsu.co.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html), Japan
 
 Part-time lecturer August, 2010 - March, 2012
-[SG SION Gakuin](http://www1.ttcn.ne.jp/~shiongakuin/), Tokyo, Japan
+[SG SION Gakuin](http://www1.ttcn.ne.jp/~shiongakuin/), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html), Japan
 
 Regular employee February, 2005 - July, 2005
-[SYSTEM Crew](http://syscrew.co.jp/), Yokohama City, Kanagawa Prefecture, Japan
+[SYSTEM Crew](http://syscrew.co.jp/), [Yokohama City](https://www.city.yokohama.lg.jp/lang/residents/en/), [Kanagawa Prefecture](https://www.pref.kanagawa.jp/translate.html?p=/index.html), Japan
 
 Regular employee April, 2001 - November, 2001
-Motoyama Graph System, Tokyo, Japan
+Motoyama Graph System, [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html), Japan
 
 ## LICENSES and CERTIFICATIONS
 
