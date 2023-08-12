@@ -25,7 +25,7 @@ https://dak.f5.si
 
 ## AWARD
 
-[Test of Practical English]((https://www.eiken.or.jp/eiken/en/eiken-tests/)): [4th Grade](https://www.eiken.or.jp/eiken/en/grades/grade_4/) outstanding performance award, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/) - 28th March, 2002
+[Test of Practical English](https://www.eiken.or.jp/eiken/en/eiken-tests/): [4th Grade](https://www.eiken.or.jp/eiken/en/grades/grade_4/) outstanding performance award, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/) - 28th March, 2002
 
 ## EDUCATION
 
