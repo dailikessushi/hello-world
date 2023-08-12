@@ -16,7 +16,7 @@
 * HDD4: [Seagate](https://www.seagate.com/) [BarraCuda 8TB](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)
 * HDD5: [TOSHIBA](https://www.global.toshiba/ww/top.html) [MN07ACA12T/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 12TB
 
-## 2st Home-built PC
+## 2nd Home-built PC
 * Case: [CoolerMaster](https://www.coolermaster.com/) [CM 690 III](https://www.coolermaster.com/catalog/legacy-products/cases/cm693/)
 * PSU:  [KUROUTOSHIKOU](https://www.kuroutoshikou.com/) [KRPW-GA850W/90+](https://www.kuroutoshikou.com/product/detail/krpw-ga850w-90-.html) (850w 80PLUS GOLD)
 * Motherboard: [ASRock](https://www.asrock.com/) [X570 Taichi](https://www.asrock.com/mb/AMD/X570%20Taichi/)
