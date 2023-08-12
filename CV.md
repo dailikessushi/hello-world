@@ -51,7 +51,7 @@ Motoyama Graph System, Tokyo, Japan
 
 ## LICENSES and CERTIFICATIONS
 
-* **Computer Graphics Engineer, Basic.**, [The Computer Graphics Arts Society](https://www.cgarts.or.jp/eng-about) - 3rd August, 2023
+* **[Computer Graphics Engineer, Basic.](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/third.html)**, [The Computer Graphics Arts Society](https://www.cgarts.or.jp/eng-about) - 3rd August, 2023
 * **[LinuC](https://linuc.org/en/)-1**, [LPI-Japan](https://lpi.or.jp/en/) - 31st January, 2016
 * **[LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/)**, [Linux Professional Institute](https://www.lpi.org/) - 31st January, 2016
 * **[EIKEN Test](https://www.eiken.or.jp/eiken/en/eiken-tests/) in Practical English Proficiency [Grade 2](https://www.eiken.or.jp/eiken/en/grades/grade_2/)**, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/) - 16th July, 2010
