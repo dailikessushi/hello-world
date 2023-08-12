@@ -15,4 +15,4 @@ best regards
 ## Table of Contents
 1. [My CV](https://github.com/dicekshin/hello-world/blob/master/CV.md)
 2. [My PC History](https://github.com/dicekshin/hello-world/blob/master/MyPCHistory.md)
-3. [My Home-built PC](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md)
+3. [My Home-built PCs](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md)
