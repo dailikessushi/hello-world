@@ -2,7 +2,8 @@
 ## Greetings
 Hi, everyone!
 
-This is Daisuke. I am, if I may say so myself, a PC geek.
+This is Daisuke. I am a Japanese.
+I am, if I may say so myself, a PC geek.
 But I am a newbie of Github.
 
 I am really interested in Vulkan API now. So I began to learn C++.
