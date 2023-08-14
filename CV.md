@@ -18,7 +18,7 @@ https://dak.f5.si
 * Installing GNU/[Linux](https://kernel.org/)es of [Ubuntu](https://ubuntu.com/), [Linux Mint](https://linuxmint.com/), [Fedora](https://fedoraproject.org/) [Server](https://fedoraproject.org/server/) and [Arch Linux](https://archlinux.org/)
 * Detailed Terminal Operation of GNU/[Linux](https://kernel.org/)es
 * Coding Small Bash Shell Script
-* Setting up Servers of SSL Web powered by [Nginx](https://nginx.org/), Samba, NFS, SSH, OpenVPN, [Mirakurun-EPGStaion](https://github.com/l3tnun/docker-mirakurun-epgstation)(Japanese TV recording server)
+* Setting up Servers of SSL Web powered by [Nginx](https://nginx.org/), Samba, NFS, SSH, OpenVPN, [Docker-Mirakurun-EPGStaion](https://github.com/l3tnun/docker-mirakurun-epgstation)(Japanese TV recording server)
 * Setting up [WordPress](https://wordpress.org/) Web Site using knowledge of HTML
 * Recording Japanese Radio Programs on time using [radi.sh](https://github.com/uru2/radish)
 * Coding of BASIC, [Intel](https://www.intel.com/) i8086 Assembly, C, Novice at [C++](https://isocpp.org/), Novice at [Vulkan](https://www.vulkan.org/) API
