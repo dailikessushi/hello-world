@@ -20,3 +20,4 @@ best regards
 2. [My PC History](https://github.com/dicekshin/hello-world/blob/master/MyPCHistory.md "My PC History")
 3. [Specifications of My Home-built PCs](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")
 4. [Time Table of the Week.pdf](https://github.com/dicekshin/hello-world/blob/master/Time_Table_of_the_Week.pdf "Time Table of the Week.pdf")
+5. [Paper_to_Paint_One_Square_after_5_Minutes_of_Study.pdf](https://github.com/dicekshin/hello-world/blob/master/Paper_to_Paint_One_Square_after_5_Minutes_of_Study.pdf "Paper_to_Paint_One_Square_after_5_Minutes_of_Study.pdf")
