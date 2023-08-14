@@ -53,7 +53,7 @@ Motoyama Graph System, [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html 
 
 * **[Computer Graphics Engineer, Basic.](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/third.html "ＣＧエンジニア検定ベーシック")**, [The Computer Graphics Arts Society](https://www.cgarts.or.jp/eng-about "公益財団法人 画像情報教育振興協会") - 3rd August, 2023
 * **[LinuC](https://linuc.org/en/ "リナック")-1**, [LPI-Japan](https://lpi.or.jp/en/ "ＬＰＩ－ＪＡＰＡＮ") - 31st January, 2016
-* **[LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/ "エルピック")**, [Linux Professional Institute](https://www.lpi.org/ "ＬＰＩ") - 31st January, 2016
+* **[LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/ "エルピック レベル１")**, [Linux Professional Institute](https://www.lpi.org/ "ＬＰＩ") - 31st January, 2016
 * **[EIKEN Test](https://www.eiken.or.jp/eiken/en/eiken-tests/ "英検") in Practical English Proficiency [Grade 2](https://www.eiken.or.jp/eiken/en/grades/grade_2/ "２級")**, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/ "公益財団法人 日本英語検定協会") - 16th July, 2010
 * **[EIKEN Test](https://www.eiken.or.jp/eiken/en/eiken-tests/ "英検") in Practical English Proficiency [Grade Pre-2](https://www.eiken.or.jp/eiken/en/grades/grade_p2/ "準2級")**, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/ "公益財団法人 日本英語検定協会") - 18th July, 2008
 * **[Test of Practical English](https://www.eiken.or.jp/eiken/en/eiken-tests/ "英検"): [3rd Grade](https://www.eiken.or.jp/eiken/en/grades/grade_3/ "３級")**, [The Society for Testing English Proficiency, Inc.](https://www.eiken.or.jp/eiken/en/association/ "公益財団法人 日本英語検定協会") - 27th February, 2004
