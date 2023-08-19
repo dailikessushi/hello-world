@@ -1,6 +1,6 @@
 # This is Daisuke!
 ## Greetings
-Hi, everyone!
+Hi there,
 
 This is Daisuke. I am a Japanese.
 I am, if I may say so myself, a PC geek.
@@ -13,7 +13,9 @@ Everything has only just begun. I am most excited now.
 
 我学汉语。
 
-best regards
+Best regards,
+
+Daisuke
 
 ## Contents
 1. [My PC History](https://github.com/dicekshin/hello-world/blob/master/MyPCHistory.md "My PC History")
