@@ -1,5 +1,4 @@
-# This is Daisuke!
-## Greetings
+# Greetings
 Hi there,
 
 This is Daisuke. I am a Nipponese.
@@ -17,7 +16,7 @@ Best regards,
 
 Daisuke
 
-## Contents
+# Contents
 1. [My PC History](https://github.com/dicekshin/hello-world/blob/master/MyPCHistory.md "My PC History")
 2. Specs of [My Home-built PCs](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")
 3. [PDF] [Time_Table_of_the_Week.pdf](https://github.com/dicekshin/hello-world/blob/master/PDFs/Time_Table_of_the_Week.pdf "Time Table of the Week.pdf")
