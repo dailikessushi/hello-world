@@ -11,7 +11,7 @@ And I got a certification for Computer Graphics Engineer, Basic. recently.
 
 Everything has only just begun. I am most excited now.
 
-我学汉语。
+我还在学习汉语。
 
 Best regards,
 
