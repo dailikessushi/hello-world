@@ -2,7 +2,7 @@
 ## Greetings
 Hi there,
 
-This is Daisuke. I am a Japanese.
+This is Daisuke. I am a Nipponese.
 I am, if I may say so myself, a PC geek.
 But I am a newbie of Github.
 
