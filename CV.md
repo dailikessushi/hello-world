@@ -31,9 +31,9 @@
 
 * Bachelor of Liberal Arts in Industry and Technology Major at Studies of Society and Industry, Department of Liberal Arts, [Faculty of Liberal Arts](https://www.ouj.ac.jp/en/faculty/liberalarts/ "教養学部"), [The Open University of Japan](https://www.ouj.ac.jp/en/ "放送大学学園") 2004-2009
 
-* University senior studying Linux Security at Division of Electrical and Computer Engineering, Faculty of Engineering, [Yokohama National University](https://www.ynu.ac.jp/english/ "国立大学法人横浜国立大学"), [Yokohama City](https://www.city.yokohama.lg.jp/lang/residents/en/ "横浜市"), [Kanagawa Prefecture](https://www.pref.kanagawa.jp/translate.html?p=/index.html "神奈川県"), Japan 1994-1999 Completed 146 credits toward a Bachelor of Engineering in Information Security
+* University senior studying Linux Security at Division of Electrical and Computer Engineering, Faculty of Engineering, [Yokohama National University](https://www.ynu.ac.jp/english/ "国立大学法人横浜国立大学"), [Yokohama](https://www.city.yokohama.lg.jp/lang/residents/en/ "横浜市"), [Kanagawa](https://www.pref.kanagawa.jp/translate.html?p=/index.html "神奈川県"), Japan 1994-1999 Completed 146 credits toward a Bachelor of Engineering in Information Security
 
-* [SETAGAYA GAKUEN High School](https://www.setagayagakuen.ac.jp/ "学校法人世田谷学園"), [Setagaya Ward](https://honyaku.j-server.com/LUCSETAGAY/ns/tl.cgi/https://www.city.setagaya.lg.jp/index.html?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=utf-8&XJSID=0 "世田谷区"), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html "東京都"), Japan 1990-1993
+* [SETAGAYA GAKUEN High School](https://www.setagayagakuen.ac.jp/ "学校法人世田谷学園"), [Setagaya](https://honyaku.j-server.com/LUCSETAGAY/ns/tl.cgi/https://www.city.setagaya.lg.jp/index.html?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=utf-8&XJSID=0 "世田谷区"), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html "東京都"), Japan 1990-1993
 
 ## EXPERIENCE
 
@@ -44,7 +44,7 @@ Part-time lecturer August, 2010 - March, 2012
 [SG SION Gakuin](http://www1.ttcn.ne.jp/~shiongakuin/ "シオン学院"), [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html "東京都"), Japan
 
 Regular employee February, 2005 - July, 2005
-[SYSTEM Crew](http://syscrew.co.jp/ "株式会社 システムクルー"), [Yokohama City](https://www.city.yokohama.lg.jp/lang/residents/en/ "横浜市"), [Kanagawa Prefecture](https://www.pref.kanagawa.jp/translate.html?p=/index.html "神奈川県"), Japan
+[SYSTEM Crew](http://syscrew.co.jp/ "株式会社 システムクルー"), [Yokohama](https://www.city.yokohama.lg.jp/lang/residents/en/ "横浜市"), [Kanagawa](https://www.pref.kanagawa.jp/translate.html?p=/index.html "神奈川県"), Japan
 
 Regular employee April, 2001 - November, 2001
 Motoyama Graph System, [Tokyo](https://www.metro.tokyo.lg.jp/english/index.html "東京都"), Japan
