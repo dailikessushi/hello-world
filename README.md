@@ -15,7 +15,7 @@ Everything has only just begun. I am most excited now.
 
 best regards
 
-## Table of Contents
+## Contents
 1. [CV](https://github.com/dicekshin/hello-world/blob/master/CV.md "CV")
 2. [My PC History](https://github.com/dicekshin/hello-world/blob/master/MyPCHistory.md "My PC History")
 3. [Specs of My Home-built PCs](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")
