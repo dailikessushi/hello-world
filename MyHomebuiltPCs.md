@@ -33,7 +33,7 @@
 |1st HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG08ACA16TE](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg08.html) 16TB|
 |2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
 |3rd HDD|[Western Digital](https://www.westerndigital.com/)|WD80EFAX [WD Red Plus NAS](https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd#WD80EFZZ) 8TB 5400rpm|
-|4th HDD|[Western Digital](https://www.westerndigital.com/)|WD40EFRX [WD Red NAS](https://www.westerndigital.com/products/internal-drives/wd-red-sata-hdd#WD40EFAX) 4TB|
+|4th HDD|[Western Digital](https://www.westerndigital.com/)|WD Red 8TB|
 
 ## Common Devices
 |   |Manufacturer|Product|
