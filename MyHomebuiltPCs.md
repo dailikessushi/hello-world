@@ -27,7 +27,7 @@
 |CPU|[AMD](https://www.amd.com/)|[Ryzen 9 5900X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5900x)|
 |CPU Cooler|[DeepCool](https://www.deepcool.com/)|[AK620](https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-High-Performance-CPU-Cooler-1700-AM5/2021/13067.shtml)|
 |RAM|[G.Skill](https://www.gskill.com/)|[F4-3600C19D-32GSXWB](https://www.gskill.com/product/165/169/1536045873/F4-3600C19D-32GSXWB) (DDR4-3600 32GB) x 2 = 64GB|
-|Video Card|[ASRock](https://www.asrock.com/)|[Radeon RX 6800 XT Phantom Gaming D 16G OC](https://pg.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/)|
+|Video Card|[ASRock](https://www.asrock.com/)|[Radeon RX 6900 XT Phantom Gaming D 16G OC](https://asrock.com/Graphics-Card/AMD/Radeon%20RX%206900%20XT%20Phantom%20Gaming%20D%2016G%20OC/index.asp)|
 |Blu-ray Drive|[Pioneer](https://global.pioneer/en/)|[BDR-212BK](http://www.st-trade.co.jp/product/spec-bdr212bk.html)|
 |SSD|[CFD](https://www.cfd.co.jp/)|[CSSD-M2M1TPG4NZL](https://www.cfd.co.jp/consumer/product/detail/cssd-m2m1tpg4nzl.html) (M.2 NVMe PCIe 4.0 1TB)|
 |1st HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG08ACA16TE](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg08.html) 16TB|
