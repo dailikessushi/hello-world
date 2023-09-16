@@ -12,7 +12,7 @@
 * Detailed Operation of [Microsoft](https://www.microsoft.com/ "マイクロソフト") [Windows 11](https://www.microsoft.com/en-us/windows/ "ウィンドウズ１１")
 * Coding Small Command Prompt Script
 * Creating PDF Documents using [LaTeX](https://www.latex-project.org/ "ラテック"), [LibreOffice](https://www.libreoffice.org/ "リブレ・オフィス") Writer and Calc
-* Cropping and Scaling Photos using [GIMP](https://www.gimp.org/ "ギンプ")
+* Cropping and Scaling Photos using [GIMP](https://www.gimp.org/ "ギンプ"), [Pinta](https://www.pinta-project.com/ "ピンタ")
 * Creating CD/DVD/Blu-ray Disc Labels
 * Converting Formats of Videos and Audio Files using [FFMEPG](https://ffmpeg.org/ "エフエフエムペグ")
 * Installing GNU/[Linux](https://kernel.org/ "リナックス")es of [Ubuntu](https://ubuntu.com/ "ウブンツ"), [Linux Mint](https://linuxmint.com/ "リナックス・ミント"), [Fedora](https://fedoraproject.org/ "フェドーラ") [Server](https://fedoraproject.org/server/ "フェドーラ・サーバー") and [Arch Linux](https://archlinux.org/ "アーチ・リナックス")
