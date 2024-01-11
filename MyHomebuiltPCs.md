@@ -3,7 +3,7 @@
 |   |Manufacturer|Product|
 |---|---|---|
 |Case|[CoolerMaster](https://www.coolermaster.com/)|[CM 690 III](https://www.coolermaster.com/catalog/legacy-products/cases/cm693/)|
-|PSU|[Scythe](https://www.scythe.co.jp/)|[SPGT2-700P GOUTAN4](https://www.scythe.co.jp/product/power/spgt4)|
+|PSU|[KUROUTOSHIKOU](https://www.kuroutoshikou.com/)|[KRPW-GA850W/90+](https://www.kuroutoshikou.com/product/detail/krpw-ga850w-90-.html) (850W 80PLUS GOLD)|
 |Motherboard|[ASRock](https://www.asrock.com/)|[X470 Taichi](https://www.asrock.com/mb/AMD/X470%20Taichi/)|
 |CPU|[AMD](https://www.amd.com/)|[Ryzen 9 3900](https://www.amd.com/en/product/8931)|
 |CPU Cooler|[Scythe](https://www.scythe.co.jp/)|[KOTETSU Mark II](https://www.scythe.co.jp/product/cpu-cooler/air-cooling/midrange/scktt-2100)|
@@ -22,7 +22,7 @@
 |   |Manufacturer|Product|
 |---|---|---|
 |Case|[CoolerMaster](https://www.coolermaster.com/)|[CM 690 III](https://www.coolermaster.com/catalog/legacy-products/cases/cm693/)|
-|PSU|[KUROUTOSHIKOU](https://www.kuroutoshikou.com/)|[KRPW-GA850W/90+](https://www.kuroutoshikou.com/product/detail/krpw-ga850w-90-.html) (850w 80PLUS GOLD)|
+|PSU|[MSI](https://www.msi.com/)|[MAG-A850GL-PCIE5](https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5) (850W PCIe 5.0 Ready 80 Plus Gold)|
 |Motherboard|[ASRock](https://www.asrock.com/)|[X570 Taichi](https://www.asrock.com/mb/AMD/X570%20Taichi/)|
 |CPU|[AMD](https://www.amd.com/)|[Ryzen 9 5900X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5900x)|
 |CPU Cooler|[DeepCool](https://www.deepcool.com/)|[AK620](https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-High-Performance-CPU-Cooler-1700-AM5/2021/13067.shtml)|
