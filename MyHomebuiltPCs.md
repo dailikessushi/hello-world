@@ -16,7 +16,6 @@
 |2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
 |3rd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN05ACA800](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 8TB|
 |4th HDD|[Seagate](https://www.seagate.com/)|[BarraCuda 8TB](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)|
-|5th HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN07ACA12T/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 12TB|
 
 ## 2nd Home-built PC
 |   |Manufacturer|Product|
