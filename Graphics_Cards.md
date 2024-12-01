@@ -50,7 +50,7 @@
 |NVIDIA GPU Boost™|Yes|Yes|Yes|Yes| |
 |NVIDIA NVLink™ (SLI-Ready)|-|-|No|No| |
 |Vulkan RT API、OpenGL 4.6|Yes|Yes|Yes|Yes| |
-|NVIDIA Encoder (NVENC)|7th Generation|7th Generation|2x 8th Generation世代|2x 8th Generation|?x 9th Generation|
+|NVIDIA Encoder (NVENC)|7th Generation|7th Generation|2x 8th Generation|2x 8th Generation|?x 9th Generation|
 |NVIDIA Decoder (NVDEC)|5th Generation|5th Generation|5th Generation|5th Generation|6th Generation|
 |AV1 Encode|Yes|Yes|Yes|Yes| |
 |AV1 Decode|Yes|Yes|Yes|Yes| |
@@ -133,7 +133,7 @@
 |Supported Technologies| | | |
 |AMD Software：Adrenalin Edition|○|○|○|
 |AMD FidelityFX™ Super Resolution|○|○|○|
-|AMD ノイズ・サプレッション|○|○|○|
+|AMD Noise Suppression|○|○|○|
 |AMD Radeon™ Super Resolution|○|○|○|
 |AMD Smart Access Memory|○|○|○|
 |AMD Smart Access Video| | |○|
