@@ -30,9 +30,9 @@
 |Blu-ray Drive|[Pioneer](https://global.pioneer/en/)|[BDR-212BK](http://www.st-trade.co.jp/product/spec-bdr212bk.html)|
 |SSD|[CFD](https://www.cfd.co.jp/)|[CSSD-M2M1TPG4NZL](https://www.cfd.co.jp/consumer/product/detail/cssd-m2m1tpg4nzl.html) (M.2 NVMe PCIe 4.0 1TB)|
 |1st HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG08ACA16TE](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg08.html) 16TB|
-|2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
-|3rd HDD|[Western Digital](https://www.westerndigital.com/)|WD80EFAX [WD Red Plus NAS](https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd#WD80EFZZ) 8TB 5400rpm|
-|4th HDD|[Seagate](https://www.seagate.com/)|[BarraCuda 8TB](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)|
+|2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG10AFA22TE/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg10f-series.html) 22TB|
+|3rd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
+|4th HDD|[Western Digital](https://www.westerndigital.com/)|WD80EFAX [WD Red Plus NAS](https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd#WD80EFZZ) 8TB 5400rpm|
 |5th HDD|[Western Digital](https://www.westerndigital.com/)|WD80EFZX WD Red 8TB|
 
 ## Common Devices
@@ -42,5 +42,7 @@
 |Webcam|[Logicool](https://www.logicool.co.jp/)|[Webcam C910](https://support.logi.com/hc/ja/articles/360025264994)|
 |Keyboard|[Lenovo](https://www.lenovo.com/)|[ThinkPad TrackPoint Keyboard](https://www.lenovo.com/jp/ja/p/accessories-and-software/keyboards-and-mice/keyboards/0b47208)|
 |10Keyboard|[ELECOM](https://www.elecom.co.jp/)|[TK-TCM011BK](https://www.elecom.co.jp/products/TK-TCM011BK.html)|
+|Speaker|[Logicool](https://www.logicool.co.jp/)|[Z120](https://www.logicool.co.jp/ja-jp/products/speakers/z120-compact-usb-speakers.980-000515.html)|
+|Display|[BenQ](https://www.benq.com/)|[EW3270U](https://www.benq.com/ja-jp/monitor/entertainment/ew3270u.html)|
 |Speaker|[Logicool](https://www.logicool.co.jp/)|[Z120](https://www.logicool.co.jp/ja-jp/products/speakers/z120-compact-usb-speakers.980-000515.html)|
 |Display|[BenQ](https://www.benq.com/)|[EW3270U](https://www.benq.com/ja-jp/monitor/entertainment/ew3270u.html)|
