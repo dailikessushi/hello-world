@@ -12,7 +12,7 @@
 |Transistors:|57,700 million|unknown|45,900 million|45,900 million|unknown|
 |GCD Transistors:|45,400 million| | | | |
 |MCD Transistors:|2,050 million x6| | | | |
-|Density:|109.1M / mm²| ｜121.1M / mm²|121.1M / mm²| |
+|Density:|109.1M / mm²| |121.1M / mm²|121.1M / mm²| |
 |GCD Density:|150.2M / mm²| | | | |
 |MCD Density:|54.64M / mm²| | | | |
 |Die Size:|529 mm²|unknown|379 mm²|379 mm²|377 mm²|
