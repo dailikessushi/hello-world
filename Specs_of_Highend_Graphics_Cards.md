@@ -1,4 +1,4 @@
-# GeForce RTX 3080 4080 series
+# GeForce RTX 3080 4080 5080 series
 | |3080|3080 Ti|4080|4080 SUPER|5080|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |Availability|2020/09/17|2021/06/03|2022/11/16|2024/1/31|2025|
@@ -86,9 +86,11 @@
 |Series:|AMD Radeon™ RX 6900 Series|AMD Radeon™ RX 6900 Series|AMD Radeon™ RX 7900 Series|
 |Type:|Component|Desktop|Component|
 |Launch Date:|12/8/2020|05/10/2022|12/13/2022|
+|Launch Price:|999 USD|1,099 USD|999 USD|
 |OS Support:|Windows 11 - 64-Bit Edition, Windows 10 - 64-Bit Edition, Linux x86 64-Bit|Windows 11 - 64-Bit Edition, Windows 10 - 64-Bit Edition, Ubuntu x86 64-Bit, Linux x86 64-Bit|Windows 11 - 64-Bit Edition, Windows 10 - 64-Bit Edition, Ubuntu x86 64-Bit, Linux x86 64-Bit|
 |Additional Power Connector:|2x8 pin|2x8 pin|2x8-Pin Power Connectors|
 |**GPU**|-|-|-|
+|GPU Chip:|Navi 21|Navi 21|Navi 31|
 |Compute Units:|80|80|96|
 |Base Frequency:| |1890 MHz| |
 |Boost Frequency:|Up to 2250 MHz|Up to 2310 MHz|Up to 2500 MHz|
@@ -100,8 +102,8 @@
 |Peak Half Precision Compute Performance:|46.08 TFLOPs|47.31TFLOPs|123 TFLOPs|
 |Peak Single Precision Compute Performance:|23.04 TFLOPs|23.65 TFLOPs|61 TFLOPs|
 |ROP:|128|128|192|
-|Stream Processors:|5120|5120|6144|
-|Texture Units:|320|320|384|
+|Stream Processors(Shaders):|5120|5120|6144|
+|Texture Units(TMUs):|320|320|384|
 |Transistor Count:|26.8 B|26.8 B|58 B|
 |**Requirements**|-|-|-|
 |Typical Board Power(Desktop):|300 W|335 W|355 W|
@@ -111,7 +113,7 @@
 |Memory Speed:|Up to 16 Gbps|Up to 18 Gbps|Up to 20 Gbps|
 |Max Memory Size:|16 GB|16 GB|24 GB|
 |Memory Type:|GDDR6|GDDR6|GDDR6|
-|Memory Interface:|256-bit|256-bit| |
+|Memory Interface:|256-bit|256-bit|384-bit|
 |Memory Bandwidth:|Up to 512 GB/s|Up to 576 GB/s|Up to 960 GB/s|
 |Effective Memory Bandwidth:| |Up to 1793.5 GB/s|Up to 3500 GB/s|
 |**Supported Rendering Format**|-|-|-|
