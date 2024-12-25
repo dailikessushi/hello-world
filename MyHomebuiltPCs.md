@@ -8,7 +8,7 @@
 |CPU|[AMD](https://www.amd.com/)|[Ryzen 9 3900](https://www.amd.com/en/product/8931)|
 |CPU Cooler|[Scythe](https://www.scythe.co.jp/)|[KOTETSU Mark II](https://www.scythe.co.jp/product/cpu-cooler/air-cooling/midrange/scktt-2100)|
 |RAM|[G.Skill](https://www.gskill.com/)|[F4-3600C19D-32GSXWB](https://www.gskill.com/product/165/169/1536045873/F4-3600C19D-32GSXWB) (DDR4-3600 32GB) x 2 = 64GB|
-|Video Card|[Palit](https://www.palit.com/)|[GEFORCE GTX 1050Ti StormX](https://www.palit.com/palit/vgapro.php?id=2719&lang=en) (GDDR 4GB)|
+|Video Card|[ASRock](https://www.asrock.com/)|[Radeon RX 6800 XT Phantom Gaming D 16G OC](https://pg.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/index.asp)|
 |TV Tuner Card|[PLEX](http://www.plex-net.co.jp/)|[PX-Q3PE4](http://www.plex-net.co.jp/product/px-q3pe4/)|
 |Blu-ray Drive|[Pioneer](https://global.pioneer/en/)|[BDR-207MBK](https://www.pioneerelectronics.com/PUSA/Computer/Computer+Drives/BDR-207MBK)|
 |SSD|[Western Digital](https://www.westerndigital.com/)|[WD Red SA500 NAS SATA SSD M.2 2280](https://www.westerndigital.com/products/internal-drives/wd-red-sata-m-2-ssd#WDS100T1R0B) (1TB)|
