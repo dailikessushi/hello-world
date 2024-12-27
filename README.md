@@ -5,7 +5,7 @@ This is DiceK. I am, if I may say so myself, a PC geek. But I am a newbie of Git
 
 Best regards,
 
-DiceK
+Dai
 
 # Contents
 1. [My PC History](https://github.com/dailikessushi/hello-world/blob/master/MyPCHistory.md "My PC History")
