@@ -1,21 +1,21 @@
 # GeForce RTX 3080 4080 5080 series
 | |3080|3080 Ti|4080|4080 SUPER|5080|
 |:-|:-:|:-:|:-:|:-:|:-:|
-|Availability|2020/09/17|2021/06/03|2022/11/16|2024/1/31|2025|
+|Availability|2020/09/17|2021/06/03|2022/11/16|2024/1/31|2025/1/21|
 |Launch Price|699 USD|1,199 USD|1,199 USD|999 USD|999 USD|
-|GPU Name|GA102|GA102|AD103|AD103| |
-|Foundry|Samsung|Samsung|TSMC|TSMC| |
-|Process Size|8 nm|8 nm|5 nm|5 nm| |
-|Transistors|28,300 million|28,300 million|45,900 million|45,900 million| |
+|GPU Name|GA102|GA102|AD103|AD103|GB203|
+|Foundry|Samsung|Samsung|TSMC|TSMC|TSMC|
+|Process Size|8 nm|8 nm|5 nm|5 nm|4 nm|
+|Transistors|28,300 million|28,300 million|45,900 million|45,900 million|unknown|
 |Density|45.1M / mm2|45.1M / mm2|121.1M / mm2|121.1M / mm2| |
-|Die Size|628 mm2|628 mm2|379 mm2|379 mm2| |
+|Die Size|628 mm2|628 mm2|379 mm2|379 mm2|377 mm2|
 |**GPU Engine Specs:**|-|-|-|-|-|
 |NVIDIA CUDA® Cores|8960/8704|10240|9728|10240|10752|
 |TMUs|272|320|304|320|336|
 |ROPs|96|112|112|120|128|
 |Tensor cores|272|320|304|320|336|
 |SM Count|68|80|76|80|84|
-|RT Cores|68|80|76|80| |
+|RT Cores|68|80|76|80|84|
 |L1 Cache|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|
 |L2 Cache|5 MB|6 MB|64 MB|64 MB|64 MB|
 |Boost Clock (GHz)|1.71|1.67|2.51|2.55|2.62|
@@ -24,9 +24,9 @@
 |Memory Size|12GB/10GB|12GB|16GB|16GB|16GB|
 |Memory Type|GDDR6X|GDDR6X|GDDR6X|GDDR6X|GDDR7|
 |Memory Interface Width|384-bit/320-bit|384-bit|256-bit|256-bit|256-bit|
-|Bandwidth|760.3 GB/s|912.4 GB/s|716.8 GB/s|736.3 GB/s|710.1 GB/s|
+|Bandwidth|760.3 GB/s|912.4 GB/s|716.8 GB/s|736.3 GB/s|960.0 GB/s|
 | | | | | |32Gbps|
-|Memory Clock effective|1.188 GHz 19 Gbps|1.188 GHz 19 Gbps|1.4GHz 22.4Gbps|1.438 GHz 23 Gbps|1.75 GHz 22.2 Gbps|
+|Memory Clock effective|1.188 GHz 19 Gbps|1.188 GHz 19 Gbps|1.4GHz 22.4Gbps|1.438 GHz 23 Gbps|2.366 GHz 30 Gbps|
 |**Technology Support:**|-|-|-|-|-|
 |Ray Tracing Cores|2nd Gen|2nd Gen|3rd Gen|3rd Gen|4th Gen|
 |Tensor Cores|3rd Gen 238 AI TOPS|3rd Gen 273 AI TOPS|4th Gen 780 AI TOPS|4th Gen 836 AI TOPS|5th Gen 1801 AI TOPS|
