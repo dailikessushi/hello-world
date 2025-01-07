@@ -6,7 +6,7 @@
 |GPU Variant:|Navi 31 XTX (215-145000146)|Navi 48 XT|AD103-300-A1|AD103-400-A1|GB203-400-A1|
 |Architecture:|RDNA 3.0|RDNA 4.0|Ada Lovelace|Ada Lovelace|Blackwell 2.0|
 |Foundry:|TSMC|TSMC|TSMC|TSMC|TSMC|
-|Process Size:|5 nm|4 nm|5 nm|5 nm|unknown|
+|Process Size:|5 nm|4 nm|5 nm|5 nm|4 nm|
 |MCD Process:|6 nm| | | | |
 |Process Type:|N5 / N6 FinFET|N5 / N6 FinFET| | | |
 |Transistors:|57,700 million|unknown|45,900 million|45,900 million|unknown|
@@ -27,13 +27,13 @@
 |CUDA:| | |8.9|8.9|10.1|
 |Shader Model:|6.8|6.8|6.8|6.8|6.8|
 **Graphics Card**
-|Release Date:|Nov 3rd, 2022|Unknown|Sep 20th, 2022|Jan 8th, 2024|2025|
-|Availability:|Dec 13th, 2022|Unknown|Nov 16th, 2022|Jan 31st, 2024|2025|
+|Release Date:|Nov 3rd, 2022|Unknown|Sep 20th, 2022|Jan 8th, 2024|Jan 21st, 2025|
+|Availability:|Dec 13th, 2022|Unknown|Nov 16th, 2022|Jan 31st, 2024|Jan 2025|
 |Generation:|Navi III(RX 7000)|Navi IV(RX 8000)|GeForce 40|GeForce 40|GeForce 50|
 |Predecessor:|Navi II|Navi III|GeForce 30|GeForce 30|GeForce 40|
 |Successor:|Navi IV| |GeForce 50|GeForce 50| |
 |Production:|Active|Unreleased|Active|Active|Unreleased|
-|Launch Price:|999 USD| |1,199 USD|999 USD| |
+|Launch Price:|999 USD| |1,199 USD|999 USD|999 USD|
 |Bus Interface:|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 5.0 x16|
 **Render Config**
 |Shading Units:|6144|4096|9728|10240|10752|
@@ -48,30 +48,30 @@
 |L2 Cache:|6 MB|4 MB|64 MB|64 MB|64 MB|
 |L3 Cache:|96 MB|64 MB| | | |
 **Clock Speeds**
-|Base Clock:|1929 MHz|1295 MHz|2205 MHz|2295 MHz|2235 MHz|
-|Boost Clock:|2498 MHz|2430 MHz|2505 MHz|2550 MHz|2520 MHz|
+|Base Clock:|1929 MHz|1295 MHz|2205 MHz|2295 MHz|2295 MHz|
+|Boost Clock:|2498 MHz|2430 MHz|2505 MHz|2550 MHz|2617 MHz|
 |Shader Clock:|2365 MHz| | | | |
 |Game Clock:|2365 MHz|2124 MHz| | | |
-|Memory Clock:|2500 MHz 20 Gbps effective|2438 MHz 19.5 Gbps effective|1400 MHz 22.4 Gbps effective|1438 MHz 23 Gbps effective|1750 MHz 22.2 Gbps effective|
+|Memory Clock:|2500 MHz 20 Gbps effective|2438 MHz 19.5 Gbps effective|1400 MHz 22.4 Gbps effective|1438 MHz 23 Gbps effective|2366 MHz 30 Gbps effective|
 **Memory**
 |Memory Size:|24 GB|16 GB|16 GB|16 GB|16 GB|
 |Memory Type:|GDDR6|GDDR6|GDDR6X|GDDR6X|GDDR7|
 |Memory Bus:|384 bit|256 bit|256 bit|256 bit|256 bit|
-|Bandwidth:|960.0 GB/s|624.1 GB/s|716.8 GB/s|736.3 GB/s|710.1 GB/s|
+|Bandwidth:|960.0 GB/s|624.1 GB/s|716.8 GB/s|736.3 GB/s|960.0 GB/s|
 **Theoretical Performance**
-|Pixel Rate:|479.6 GPixel/s|233.3 GPixel/s|280.6 GPixel/s|285.6 GPixel/s|322.6 GPixel/s|
-|Texture Rate:|959.2 GTexel/s|622.1 GTexel/s|761.5 GTexel/s|816.0 GTexel/s|846.7 GTexel/s|
-|FP16 (half):|122.8 TFLOPS (2:1)|39.81 TFLOPS (2:1)|48.74 TFLOPS (1:1)|52.22 TFLOPS (1:1)|54.19 TFLOPS (1:1)|
-|FP32 (float):|61.39 TFLOPS|19.91 TFLOPS|48.74 TFLOPS|52.22 TFLOPS|54.19 TFLOPS|
-|FP64 (double):|1.918 TFLOPS (1:32)|622.1 GFLOPS (1:32)|761.5 GFLOPS (1:64)|816.0 GFLOPS (1:64)|846.7 GFLOPS (1:64)|
+|Pixel Rate:|479.6 GPixel/s|233.3 GPixel/s|280.6 GPixel/s|285.6 GPixel/s|335.0 GPixel/s|
+|Texture Rate:|959.2 GTexel/s|622.1 GTexel/s|761.5 GTexel/s|816.0 GTexel/s|879.3 GTexel/s|
+|FP16 (half):|122.8 TFLOPS (2:1)|39.81 TFLOPS (2:1)|48.74 TFLOPS (1:1)|52.22 TFLOPS (1:1)|56.28 TFLOPS (1:1)|
+|FP32 (float):|61.39 TFLOPS|19.91 TFLOPS|48.74 TFLOPS|52.22 TFLOPS|56.28 TFLOPS|
+|FP64 (double):|1.918 TFLOPS (1:32)|622.1 GFLOPS (1:32)|761.5 GFLOPS (1:64)|816.0 GFLOPS (1:64)|879.3 GFLOPS (1:64)|
 **Board Design**
-|Slot Width:|Dual-slot|Dual-slot|Triple-slot|Triple-slot|Triple-slot|
+|Slot Width:|Dual-slot|Dual-slot|Triple-slot|Triple-slot|Dual-slot|
 |Length:|287 mm 11.3 inches|267 mm 10.5 inches|310 mm 12.2 inches|310 mm 12.2 inches|304 mm 12 inches|
 |Width:|110 mm 4.3 inches|111 mm 4.4 inches|140 mm 5.5 inches|140 mm 5.5 inches|137 mm 5.4 inches|
-|Height:|51 mm 2 inches|50 mm 2 inches|61 mm 2.4 inches|61 mm 2.4 inches|61 mm 2.4 inches|
-|TDP:|355 W|220 W|320 W|320 W|350 W|
+|Height:|51 mm 2 inches|50 mm 2 inches|61 mm 2.4 inches|61 mm 2.4 inches|48 mm 1.9 inches|
+|TDP:|355 W|220 W|320 W|320 W|360 W|
 |Suggested PSU:|750 W|550 W|700 W|700 W|750 W|
-|Outputs:|1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C|1x HDMI 2.1a 3x DisplayPort 2.1|1x HDMI 2.1 3x DisplayPort 1.4a|1x HDMI 2.1 3x DisplayPort 1.4a|1x HDMI 2.1 3x DisplayPort 1.4a|
+|Outputs:|1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C|1x HDMI 2.1a 3x DisplayPort 2.1|1x HDMI 2.1 3x DisplayPort 1.4a|1x HDMI 2.1 3x DisplayPort 1.4a|1x HDMI 2.1b 3x DisplayPort 2.1a|
 |Power Connectors:|2x 8-pin|2x 8-pin|1x 16-pin|1x 16-pin|1x 16-pin|
 |Board Number:|109-D702A7-00_02| |PG139 SKU 360|PG139 SKU 355|PG144 SKU 45|
 |**GPU Notes**|Navi 31|Navi 48|AD103|AD103|GB203|
