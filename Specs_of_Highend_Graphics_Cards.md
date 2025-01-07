@@ -2,7 +2,7 @@
 | |3080|3080 Ti|4080|4080 SUPER|5080|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |Availability|2020/09/17|2021/06/03|2022/11/16|2024/1/31|2025|
-|Launch Price|699 USD|1,199 USD|1,199 USD|999 USD|? USD|
+|Launch Price|699 USD|1,199 USD|1,199 USD|999 USD|999 USD|
 |GPU Name|GA102|GA102|AD103|AD103| |
 |Foundry|Samsung|Samsung|TSMC|TSMC| |
 |Process Size|8 nm|8 nm|5 nm|5 nm| |
@@ -18,8 +18,8 @@
 |RT Cores|68|80|76|80| |
 |L1 Cache|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|128 KB (per SM)|
 |L2 Cache|5 MB|6 MB|64 MB|64 MB|64 MB|
-|Boost Clock (GHz)|1.71|1.67|2.51|2.55|2.52|
-|Base Clock (GHz)|1.26/1.44|1.37|2.21|2.21|2.235|
+|Boost Clock (GHz)|1.71|1.67|2.51|2.55|2.62|
+|Base Clock (GHz)|1.26/1.44|1.37|2.21|2.21|2.30|
 |**Memory Specs:**|-|-|-|-|-|
 |Memory Size|12GB/10GB|12GB|16GB|16GB|16GB|
 |Memory Type|GDDR6X|GDDR6X|GDDR6X|GDDR6X|GDDR7|
@@ -29,53 +29,56 @@
 |Memory Clock effective|1.188 GHz 19 Gbps|1.188 GHz 19 Gbps|1.4GHz 22.4Gbps|1.438 GHz 23 Gbps|1.75 GHz 22.2 Gbps|
 |**Technology Support:**|-|-|-|-|-|
 |Ray Tracing Cores|2nd Gen|2nd Gen|3rd Gen|3rd Gen|4th Gen|
-|Tensor Cores|3rd Gen 238 AI TOPS|3rd Gen 273 AI TOPS|4th Gen 780 AI TOPS|4th Gen 836 AI TOPS|5th Gen ? AI TOPS|
-|NVIDIA Architecture|Ampere 30 TFLOPS|Ampere 34 TFLOPS|Ada Lovelace 49 TFLOPS|Ada Lovelace 52TFLOPS|Blackwell 2.0 54.19 TFLOPS|
+|Tensor Cores|3rd Gen 238 AI TOPS|3rd Gen 273 AI TOPS|4th Gen 780 AI TOPS|4th Gen 836 AI TOPS|5th Gen 1801 AI TOPS|
+|NVIDIA Architecture|Ampere 30 TFLOPS|Ampere 34 TFLOPS|Ada Lovelace 49 TFLOPS|Ada Lovelace 52TFLOPS|Blackwell 2.0 171 TFLOPS|
 |Streaming Multi-processors|FP32 x2|FP32 x2|FP32 x2|FP32 x2|FP? x?|
-|Microsoft DirectX® 12 Ultimate|Yes|Yes|Yes|Yes| |
-|NVIDIA DLSS|DLSS 2 Super Resolution DLAA Ray Reconstruction|DLSS 2 Super Resolution DLAA Ray Reconstruction|DLSS 3.5 Super Resolution DLAA Ray Reconstruction Frame Generation|DLSS 3.5 Super Resolution DLAA Ray Reconstruction Frame Generation| |
-|NVIDIA Reflex|Yes|Yes|Yes|Yes| |
-|NVIDIA Broadcast|Yes|Yes|Yes|Yes| |
+|Microsoft DirectX® 12 Ultimate|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA DLSS|DLSS 2 Super Resolution DLAA Ray Reconstruction|DLSS 2 Super Resolution DLAA Ray Reconstruction|DLSS 3.5 Super Resolution DLAA Ray Reconstruction Frame Generation|DLSS 3.5 Super Resolution DLAA Ray Reconstruction Frame Generation|DLSS 4|
+|NVIDIA Reflex|Yes|Yes|Yes|Yes|Reflex 2(Coming Soon)|
+|NVIDIA Broadcast|Yes|Yes|Yes|Yes|Yes|
 |PCI Express Gen 4|Yes|Yes|Yes|Yes| |
-|Resizable BAR|Yes|Yes|Yes|Yes| |
-|NVIDIA® GeForce Experience™|Yes|Yes|Yes|Yes| |
-|NVIDIA Ansel|Yes|Yes|Yes|Yes| |
-|NVIDIA FreeStyle|Yes|Yes|Yes|Yes| |
-|NVIDIA ShadowPlay|Yes|Yes|Yes|Yes| |
-|NVIDIA Highlights|Yes|Yes|Yes|Yes| |
-|NVIDIA G-SYNC®|Yes|Yes|Yes|Yes| |
-|Game Ready Drivers|Yes|Yes|Yes|Yes| |
-|NVIDIA Studio Drivers|Yes|Yes|Yes|Yes| |
-|NVIDIA Omniverse|Yes|Yes|Yes|Yes| |
-|NVIDIA GPU Boost™|Yes|Yes|Yes|Yes| |
-|NVIDIA NVLink™ (SLI-Ready)|-|-|No|No| |
+|PCI Express Gen 5| | | | |Yes|
+|Resizable BAR|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA® GeForce Experience™|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA Ansel|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA FreeStyle|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA ShadowPlay|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA Highlights|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA G-SYNC®|Yes|Yes|Yes|Yes|Yes|
+|Game Ready Drivers|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA Studio Drivers|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA Omniverse|Yes|Yes|Yes|Yes|Yes|
+|RTX Remix| | | | |Yes|
+|NVIDIA GPU Boost™|Yes|Yes|Yes|Yes|Yes|
+|NVIDIA NVLink™ (SLI-Ready)|-|-|No|No|No|
 |Vulkan RT API、OpenGL 4.6|Yes|Yes|Yes|Yes| |
-|NVIDIA Encoder (NVENC)|7th Generation|7th Generation|2x 8th Generation|2x 8th Generation|?x 9th Generation|
-|NVIDIA Decoder (NVDEC)|5th Generation|5th Generation|5th Generation|5th Generation|6th Generation|
-|AV1 Encode|Yes|Yes|Yes|Yes| |
-|AV1 Decode|Yes|Yes|Yes|Yes| |
-|CUDA Capability|8.6|8.6|8.9|8.9| |
-|VR Ready|Yes|Yes|Yes|Yes| |
+|Vulkan 1.4, OpenGL 4.6| | | | |Yes|
+|NVIDIA Encoder (NVENC)|7th Generation|7th Generation|2x 8th Generation|2x 8th Generation|2x Ninth Generation|
+|NVIDIA Decoder (NVDEC)|5th Generation|5th Generation|5th Generation|5th Generation|2x Sixth Generation|
+|AV1 Encode|Yes|Yes|Yes|Yes|Yes|
+|AV1 Decode|Yes|Yes|Yes|Yes|Yes|
+|CUDA Capability|8.6|8.6|8.9|8.9|１2.8|
+|VR Ready|Yes|Yes|Yes|Yes|Yes|
 |**Display Support:**|-|-|-|-|-|
-|Maximum Display Resolution|7680x4320|7680x4320|4K at 240Hz or 8K at 60Hz with DSC,HDR|4K at 240Hz or 8K at 60Hz with DSC,HDR| |
-|Standard Display Connectors|HDMI、3x DisplayPort|HDMI、3x DisplayPort|HDMI、3x DisplayPort|HDMI、3x DisplayPort|1x HDMI 2.1、3x DisplayPort 1.4a|
-|Multi Monitor|4|4|up to 4|up to 4| |
-|HDCP|2.3|2.3|2.3|2.3| |
+|Maximum Display Resolution|7680x4320|7680x4320|4K at 240Hz or 8K at 60Hz with DSC,HDR|4K at 240Hz or 8K at 60Hz with DSC,HDR|4K at 480Hz or 8K at 120Hz with DSC|
+|Standard Display Connectors|HDMI、3x DisplayPort|HDMI、3x DisplayPort|HDMI、3x DisplayPort|HDMI、3x DisplayPort|3x DisplayPort、1x HDMI 2.1|
+|Multi Monitor|4|4|up to 4|up to 4|up to 4 |
+|HDCP|2.3|2.3|2.3|2.3|2.3|
 |**Card Dimensions:**|-|-|-|-|-|
 |Length|11.2" (285 mm)|11.2" (285 mm)|304 mm|304 mm|304 mm|
 |Width|4.4" (112 mm)|4.4" (112 mm)|137 mm|137 mm|137 mm|
 |Height|40 mm|40 mm|61 mm|61 mm|61 mm|
-|Slots|2-Slot|2-Slot|3-Slot|3-Slot|3-Slot|
-|SFF-Ready Enthusiast GeForce Card|Varies by manufacturer|Varies by manufacturer|Varies by manufacturer|Varies by manufacturer|Varies by manufacturer|
+|Slots|2-Slot|2-Slot|3-Slot|3-Slot|2-Slot|
+|SFF-Ready Enthusiast GeForce Card|Varies by manufacturer|Varies by manufacturer|Varies by manufacturer|Varies by manufacturer|Founders Edition Yes Varies by manufacturer|
 |Bus|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 4.0 x16|PCIe 5.0 x16|
 |**Thermal and Power Specs:**|-|-|-|-|-|
-|Maximum GPU Temperature (in C)|93|93|90|90| |
+|Maximum GPU Temperature (in C)|93|93|90|90|88|
 |Idle Power (W)| | |13|15| |
 |Video Playback Power (W)| | |21|22| |
 |Average Gaming Power (W)| | |251|246| |
-|Total Graphics Power (W)|350/320|350|320|320|350? or 400|
-|Required System Power (W)|750|750|750|750|750|
-|Supplementary Power Connectors|2x PCIe 8-pin cables (1x 12-pin adapter in box)|2x PCIe 8-pin cables (1x 12-pin adapter in box)|3x PCIe 8-pin cables (adapter in box) OR 1x 450W or greater PCIe Gen 5 cable2x PCIe 8-pin cables (1x 12-pin adapter in box)|3x PCIe 8-pin cables (adapter in box) OR 1x 450W or greater PCIe Gen 5 cable2x PCIe 8-pin cables (1x 12-pin adapter in box)|1x 16-pin|
+|Total Graphics Power (W)|350/320|350|320|320|360|
+|Required System Power (W)|750|750|750|750|850|
+|Supplementary Power Connectors|2x PCIe 8-pin cables (1x 12-pin adapter in box)|2x PCIe 8-pin cables (1x 12-pin adapter in box)|3x PCIe 8-pin cables (adapter in box) OR 1x 450W or greater PCIe Gen 5 cable2x PCIe 8-pin cables (1x 12-pin adapter in box)|3x PCIe 8-pin cables (adapter in box) OR 1x 450W or greater PCIe Gen 5 cable|3x PCIe 8-pin cables (adapter in box) OR 1x 450 W or greater PCIe Gen 5 cable|
 
 # Radeon 6900XT 7900XTX series
 | |6900XT|6950XT|7900XTX|
