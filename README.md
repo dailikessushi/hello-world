@@ -11,4 +11,3 @@ Dai
 1. [My PC History](https://github.com/dailikessushi/hello-world/blob/master/MyPCHistory.md "My PC History")
 2. Specs of [My Home-built PCs](https://github.com/dailikessushi/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")
 3. [Specs of Highend Graphics Cards](https://github.com/dailikessushi/hello-world/blob/master/Specs_of_Highend_Graphics_Cards.md "Specs of Highend Graphics Cards")
-4. [Specs of Highend Graphics Cards 2](https://github.com/dailikessushi/hello-world/blob/master/Specs_of_Highend_Graphics_Cards2.md "Specs of Highend Graphics Cards 2")
