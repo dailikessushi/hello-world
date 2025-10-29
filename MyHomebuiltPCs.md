@@ -39,6 +39,7 @@
 |   |Manufacturer|Product|
 |---|---|------|
 |Printer|[Canon](https://global.canon/en/)|[PIXUS TS8130](https://faq.canon.jp/app/answers/detail/a_id/92255/)|
+|Scanner|[PFU](https://www.pfu.ricoh.com/)|[ScanSnap iX1600](https://www.pfu.ricoh.com/scansnap/products/ix1600/)|
 |Webcam|[Logicool](https://www.logicool.co.jp/)|[Webcam C910](https://support.logi.com/hc/ja/articles/360025264994)|
 |Keyboard|[Lenovo](https://www.lenovo.com/)|[ThinkPad TrackPoint Keyboard](https://www.lenovo.com/jp/ja/p/accessories-and-software/keyboards-and-mice/keyboards/0b47208)|
 |10Keyboard|[ELECOM](https://www.elecom.co.jp/)|[TK-TCM011BK](https://www.elecom.co.jp/products/TK-TCM011BK.html)|
