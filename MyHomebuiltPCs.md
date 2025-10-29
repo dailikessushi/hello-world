@@ -13,9 +13,9 @@
 |Blu-ray Drive|[Pioneer](https://global.pioneer/en/)|[BDR-207MBK](https://www.pioneerelectronics.com/PUSA/Computer/Computer+Drives/BDR-207MBK)|
 |SSD|[Western Digital](https://www.westerndigital.com/)|[WD Red SA500 NAS SATA SSD M.2 2280](https://www.westerndigital.com/products/internal-drives/wd-red-sata-m-2-ssd#WDS100T1R0B) (1TB)|
 |1st HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG08ACA16TE](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg08.html) 16TB|
-|2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
-|3rd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN05ACA800](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 8TB|
-|4th HDD|[Seagate](https://www.seagate.com/)|[BarraCuda 8TB](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)|
+|2nd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MG10AFA22TE/JP](https://toshiba.semicon-storage.com/ap-en/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg10f-series.html) 22TB|
+|3rd HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN08ACA16T](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 16TB|
+|4th HDD|[TOSHIBA](https://www.global.toshiba/ww/top.html)|[MN05ACA800](https://toshiba.semicon-storage.com/ap-en/storage/product/internal-specialty/nas/articles/mn-series.html) 8TB|
 
 ## 2nd Home-built PC(Main PC)
 |   |Manufacturer|Product|
