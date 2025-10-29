@@ -39,9 +39,9 @@
 |   |Manufacturer|Product|
 |---|---|------|
 |Printer|[Canon](https://global.canon/en/)|[PIXUS TS8130](https://faq.canon.jp/app/answers/detail/a_id/92255/)|
-|Scanner|[PFU](https://www.pfu.ricoh.com/)|[ScanSnap iX1600](https://www.pfu.ricoh.com/scansnap/products/ix1600/)|
-|Webcam|[Logicool](https://www.logicool.co.jp/)|[Webcam C910](https://support.logi.com/hc/ja/articles/360025264994)|
+|Scanner|[PFU](https://www.pfu.ricoh.com/global/)|[ScanSnap iX1600](https://www.pfu.ricoh.com/scansnap/products/ix1600/)|
+|Webcam|[Logicool](https://www.logitech.com/en-us)|[Webcam C910](https://support.logi.com/hc/ja/articles/360025264994)|
 |Keyboard|[Lenovo](https://www.lenovo.com/)|[ThinkPad TrackPoint Keyboard](https://www.lenovo.com/jp/ja/p/accessories-and-software/keyboards-and-mice/keyboards/0b47208)|
-|10Keyboard|[ELECOM](https://www.elecom.co.jp/)|[TK-TCM011BK](https://www.elecom.co.jp/products/TK-TCM011BK.html)|
-|Speaker|[Logicool](https://www.logicool.co.jp/)|[Z120](https://www.logicool.co.jp/ja-jp/products/speakers/z120-compact-usb-speakers.980-000515.html)|
+|10Keyboard|[ELECOM](https://www.elecom.co.jp/global/)|[TK-TCM011BK](https://www.elecom.co.jp/products/TK-TCM011BK.html)|
+|Speaker|[Logicool](https://www.logitech.com/en-us)|[Z120](https://www.logicool.co.jp/ja-jp/products/speakers/z120-compact-usb-speakers.980-000515.html)|
 |Display|[BenQ](https://www.benq.com/)|[EW3270U](https://www.benq.com/ja-jp/monitor/entertainment/ew3270u.html)|
