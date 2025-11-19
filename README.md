@@ -5,7 +5,7 @@ This is Programt. I am, if I may say so myself, a PC geek. But I am a newbie of 
 
 Best regards,
 
-Dai
+Programt
 
 # Contents
 1. [My PC History](https://github.com/dailikessushi/hello-world/blob/master/MyPCHistory.md "My PC History")
