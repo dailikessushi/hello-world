@@ -1,7 +1,7 @@
 # Greetings
 Hi there,
 
-This is Dai. I am, if I may say so myself, a PC geek. But I am a newbie of Github.
+This is Programt. I am, if I may say so myself, a PC geek. But I am a newbie of Github.
 
 Best regards,
 
