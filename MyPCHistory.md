@@ -17,7 +17,7 @@
 |14|[DOSPARA](https://www.dospara.co.jp/ "DOSPARA")|BTO PC||
 |15|[LENOVO](http://www.lenovo.com/ "LENOVO")|ThinkPad R500|Laptop|
 |16|[LENOVO](http://www.lenovo.com/ "LENOVO")|[ThinkPad Edge 11"](http://shopap.lenovo.com/jp/landing/info/10/edge11/ "ThinkPad Edge 11")|Laptop|
-|17||[1st Home-built PC](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")|Active|
+|17||[1st Home-built PC](https://github.com/Programt0/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")|Active|
 |18|[Shuttle](https://shuttle-japan.jp/ "Shuttle")|[DS47](http://global.shuttle.com/products/productsSpec?productId=1718 "DS47")|Fanless. Active|
 |19|[LENOVO](http://www.lenovo.com/ "LENOVO")|[ThinkPad X280](https://www.lenovo.com/jp/ja/notebooks/thinkpad/x-series/ThinkPad-X280/p/22TP2TX2800 "ThinkPad X280")|Laptop. Active|
-|20||[2nd Home-built PC](https://github.com/dicekshin/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")|Active|
+|20||[2nd Home-built PC](https://github.com/Programt0/hello-world/blob/master/MyHomebuiltPCs.md "My Home-built PCs")|Active|
